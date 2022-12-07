@@ -19,6 +19,6 @@ Over this timeframe, roughly 1.88 million occurrences of wildfires in the United
 	
 Possibly the largest area of application of this dataset would be in learning about prevention and containment. Wildfires are actually a necessary part of our global ecosystem. They allow forests to clear out the deadfall and sick trees to allow for new growth. Our issue comes when we incorporate our lives deep within forests and become susceptible to the natural proceses of nature. Wildfires are not something that should be viewed as being able to be eliminated completely but rather understood and worked with cooperatively. By identifying the common location and causes, we can position our homes and businesses outside of these zones and be prepared with barriers to protect the facilities within those zones.
 
-Link to video description of the project:
+Link to video presentation of the project: https://youtu.be/i-PUldrGTb0
 
-Link to our final paper:
+Link to our final paper: https://docs.google.com/document/d/1zEmNgcNWphKIuLZkv702RE6JLxQ4yHYnYMnMlKR_3vU/edit?usp=sharing
